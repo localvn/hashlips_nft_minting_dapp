@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xbbfa6b6eb7eb19239de45275c0d1a78a3d7c1808",
+  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0xbbfa6b6eb7eb19239de45275c0d1a78a3d7c1808",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "OKC",
+    "SYMBOL": "OKT",
+    "ID": 65
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
+  "NFT_NAME": "kjhjfhh",
+  "SYMBOL": "zzggdkjgtsd",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
